@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sql_generation/static/css/main.19c66dea.css",
-    "main.js": "/sql_generation/static/js/main.137edfc1.js",
+    "main.js": "/sql_generation/static/js/main.bf44cc51.js",
     "index.html": "/sql_generation/index.html",
     "main.19c66dea.css.map": "/sql_generation/static/css/main.19c66dea.css.map",
-    "main.137edfc1.js.map": "/sql_generation/static/js/main.137edfc1.js.map"
+    "main.bf44cc51.js.map": "/sql_generation/static/js/main.bf44cc51.js.map"
   },
   "entrypoints": [
     "static/css/main.19c66dea.css",
-    "static/js/main.137edfc1.js"
+    "static/js/main.bf44cc51.js"
   ]
 }
