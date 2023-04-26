@@ -23,7 +23,7 @@ const App = () => {
             })
           }
 
-          const response = await fetch("http://localhost:6060/completions", options)
+          const response = await fetch("https://jashito.github.io/sql_generation/completions", options)
           const data: ChatData = await response.json()
           console.log(data)
           setChat(oldChat => [...oldChat, data])
