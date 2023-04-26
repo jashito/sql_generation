@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sql_generation/static/css/main.19c66dea.css",
+    "main.js": "/sql_generation/static/js/main.137edfc1.js",
+    "index.html": "/sql_generation/index.html",
+    "main.19c66dea.css.map": "/sql_generation/static/css/main.19c66dea.css.map",
+    "main.137edfc1.js.map": "/sql_generation/static/js/main.137edfc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19c66dea.css",
+    "static/js/main.137edfc1.js"
+  ]
+}
